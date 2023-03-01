@@ -1,0 +1,40 @@
+body{
+    background-color:lightblue;
+}
+.left {
+   
+    background-color: rgb(81, 81, 81);
+    background-color: rgba(86, 86, 86, 0.4);
+    font-family: "Courier New", Courier, monospace;
+    font-weight:bolder;
+    color: white;
+    font-size: 50px;
+  }
+  .arpita{
+    background-color: pink;
+    width: fit-content;
+  }
+  .bansal{
+    background-color: pink;
+    width: fit-content;
+  }
+  .siri{
+    background-color:pink;
+    width: fit-content;
+  }
+  .apple{
+    background-color: pink;
+    width: fit-content;
+  }
+  .sam{
+    background-color: pink;
+    width: fit-content;
+  }
+  .love{
+    background-color:pink;
+    width: fit-content;
+  }
+  .hate{
+    background-color: pink;
+    width: fit-content;
+  }
